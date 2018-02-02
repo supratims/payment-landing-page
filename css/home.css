@@ -1,0 +1,35 @@
+.nav-bg {
+}
+
+.bg-top {
+	background: url(../images/bg-top.jpg) no-repeat center;
+    background-size: cover;
+	border-radius: 0;
+}
+
+.bg-card {
+	background: url(../images/generic_card.png) no-repeat center;
+    background-size: contain;
+	height: 200px;
+	width: 100%; max-width: 320px;
+	margin-top: 50px;
+}
+
+.bg-ecom {
+	background: url(../images/ecommerce.png) no-repeat center;
+	background-size: contain;
+	height: 400px;
+	max-width: 320px;
+}
+
+.bg-business {
+	background: url(../images/bg-business.jpg) no-repeat center;
+    background-size: cover;
+	border-radius: 0;
+	min-height: 300px;
+}
+
+.contact-div {
+	background-color: white;
+	opacity: 0.98;
+}
